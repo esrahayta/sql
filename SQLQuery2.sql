@@ -1,0 +1,1 @@
+SELECT Ülke, COUNT(*) AS sayý FROM "SALARY" GROUP BY Ülke

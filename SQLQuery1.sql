@@ -1,0 +1,1 @@
+SELECT Ülke, AVG(Maaþ) FROM "SALARY" GROUP BY ülke

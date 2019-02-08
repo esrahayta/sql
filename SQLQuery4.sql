@@ -1,0 +1,1 @@
+SELECT Ülke, Þehir, AVG(Maaþ), COUNT(*) FROM "SALARY" GROUP BY Ülke, Þehir

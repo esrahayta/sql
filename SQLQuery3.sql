@@ -1,0 +1,1 @@
+SELECT Ülke, Cinsiyet, AVG(Maaþ) FROM "SALARY" GROUP BY Ülke, Cinsiyet
